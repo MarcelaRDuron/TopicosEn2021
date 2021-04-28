@@ -22,6 +22,7 @@ public class Botones {
         hBox = new HBox();
         vBox = new VBox();
 
+
         hBox.getChildren().addAll(btn1, btn2, btn3);
         hBox.setSpacing(10);
         hBox.setPadding(new Insets(20, 20, 20, 20));
